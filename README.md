@@ -16,4 +16,6 @@ GET ALL .ts FILES WITH CODE :  https://bit.ly/CONV_TS_TO_MP4_PYTHON
 
 OS DETAILS : WINDOWS 10 [64 Bits]
 
+         GOT ANY SOLUTIONS ? 
+         
 #PYPROG_5 #SMRTNEWS
