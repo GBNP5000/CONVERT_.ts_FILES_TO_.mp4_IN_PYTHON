@@ -9,7 +9,7 @@ PYTHON 3.9 IN VS-CODE [32 Bits]
 
 GOT SOURCE-CODE FROM : https://www.youtube.com/watch?v=bytnxnZFLeg WATCH 21 MINS 47 SECS ONWARD
 
-BUT I'M GETTING ERR WITH THAT https://github.com/.../blob/main/CONVERT-TS-TO-MP4-ERR.png
+BUT I'M GETTING ERR WITH THAT https://github.com/GBNP5000/CONVERT_.ts_FILES_TO_.mp4_IN_PYTHON/blob/main/CONVERT-TS-TO-MP4-ERR.png
 
 GET ALL .ts FILES WITH CODE : https://bit.ly/CONV_TS_TO_MP4_PYTHON
 
